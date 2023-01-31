@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devadharshini</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmrunali8975&psig=AOvVaw3rzE9TjMWUnQGDXfnXbQPV&ust=1675237012430000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjm7Lum8fwCFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcoding-geek21%2Fcoding-geek21&psig=AOvVaw3rzE9TjMWUnQGDXfnXbQPV&ust=1675237012430000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjm7Lum8fwCFQAAAAAdAAAAABAK">
+
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Python, SQL, Java**
